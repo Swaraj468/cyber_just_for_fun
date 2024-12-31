@@ -1,5 +1,4 @@
- HEAD
- config
- description
- hooks/
-info/
+/hooks
+/HEAD
+/config
+/description
